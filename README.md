@@ -26,4 +26,5 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 
 <h3>DEMO SS</h3>
 <center><img src="ss2.png" alt="STLP-TEAM" height="400" width="1500"></img></center></br>
-
+<a href="https://facebook.com/groups/spamming.termux.learning.point/"><h3>©️STLP-TEAM</h3></a>
+<h3>©️STLP-TEAM</h3>

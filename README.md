@@ -11,6 +11,7 @@ pkg upgrade -y
 pkg install git -y
 pkg install python -y
 pkg install figlet -y
+cd && rm -rf TERMUX-SETUP 
 git clone https://github.com/STLP-TEAM/TERMUX-SETUP
 cd TERMUX-SETUP
 python main.py
@@ -20,7 +21,7 @@ python main.py
 <h3>SINGLE COMMAND</h3>
 
 ```
-pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg install figlet -y;git clone https://github.com/STLP-TEAM/TERMUX-SETUP;cd TERMUX-SETUP;python main.py
+pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg install figlet -y;cd && rm -rf TERMUX-SETUP;git clone https://github.com/STLP-TEAM/TERMUX-SETUP;cd TERMUX-SETUP;python main.py
 ```
 
 
